@@ -1,10 +1,8 @@
-E:\GitHub\bin\net40\Debug\Aliyun.Sls.Net.xml
 E:\GitHub\bin\net40\Debug\Aliyun.Sls.Net.dll
 E:\GitHub\bin\net40\Debug\Aliyun.Sls.Net.pdb
 E:\GitHub\Aliyun.Sls.Net\obj\net40\Debug\Aliyun.Sls.Net.csprojAssemblyReference.cache
-E:\GitHub\Aliyun.Sls.Net\obj\net40\Debug\Aliyun.Sls.Properties.Resources.resources
-E:\GitHub\Aliyun.Sls.Net\obj\net40\Debug\Aliyun.Sls.Net.csproj.GenerateResource.cache
 E:\GitHub\Aliyun.Sls.Net\obj\net40\Debug\Aliyun.Sls.Net.csproj.CoreCompileInputs.cache
 E:\GitHub\Aliyun.Sls.Net\obj\net40\Debug\Aliyun.Sls.Net.csproj.CopyComplete
 E:\GitHub\Aliyun.Sls.Net\obj\net40\Debug\Aliyun.Sls.Net.dll
 E:\GitHub\Aliyun.Sls.Net\obj\net40\Debug\Aliyun.Sls.Net.pdb
+E:\GitHub\bin\net40\Debug\LOGSDK.xml
